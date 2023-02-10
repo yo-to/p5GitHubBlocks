@@ -4,3 +4,6 @@
 
 [公式サンプルの中で、p5.js のキャンバスを GitHub上で表示させるものを見かけて](https://twitter.com/youtoy/status/1623879675499134976)、それを自分でも試そうと思って、このリポジトリを作成しました。
 
+### リンクのメモ
+- [GitHub Blocks](https://blocks.githubnext.com/)
+- [blocks/examples at main · githubnext/blocks · GitHub](https://github.com/githubnext/blocks/tree/main/examples)
